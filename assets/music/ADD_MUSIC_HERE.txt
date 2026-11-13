@@ -1,0 +1,1 @@
+Place your music file here as our-song.mp3. If it has another name or format, change the audio.src path in script.js. The page only plays music after the visitor presses Play.
